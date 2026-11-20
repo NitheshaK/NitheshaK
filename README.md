@@ -3,7 +3,7 @@
 # Nithesha K
 
 **Java Backend Developer**
-Spring Boot · REST APIs · Hibernate · Angular integration
+· Spring Boot · REST APIs · Hibernate · Angular integration
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nithesha-k-49bb2a194)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111111?style=flat-square&logo=netlify&logoColor=00C7B7)](https://nitheshakportfolio.netlify.app)
