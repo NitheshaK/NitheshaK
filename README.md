@@ -119,7 +119,7 @@ Explore my portfolio and projects: **[nitheshakportfolio.netlify.app](https://ni
 
 I'm always interested in learning, collaborating and discussing backend engineering.
 
-- **Location:** India
+- **Location:** Mangalore, India
 - **LinkedIn:** https://www.linkedin.com/in/nithesha-k-49bb2a194
 - **Email:** nitheshak3@gmail.com
 
