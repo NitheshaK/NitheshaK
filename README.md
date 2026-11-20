@@ -120,7 +120,7 @@ Explore my portfolio and projects: **[nitheshakportfolio.netlify.app](https://ni
 I'm always interested in learning, collaborating and discussing backend engineering.
 
 - **Location:** India
-- **LinkedIn:** [Add your LinkedIn profile URL](https://www.linkedin.com/)
+- **LinkedIn:** [Add your LinkedIn profile URL]([https://www.linkedin.com/](https://www.linkedin.com/in/nithesha-k-49bb2a194))
 - **Email:** Add your professional email address
 
 <div align="center">
