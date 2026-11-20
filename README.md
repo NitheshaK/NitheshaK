@@ -121,7 +121,7 @@ I'm always interested in learning, collaborating and discussing backend engineer
 
 - **Location:** India
 - **LinkedIn:** https://www.linkedin.com/in/nithesha-k-49bb2a194
-- **Email:** Add your professional email address
+- **Email:** nitheshak3@gmail.com
 
 <div align="center">
 
