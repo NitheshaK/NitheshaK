@@ -110,7 +110,7 @@ Explore my portfolio and projects: **[nitheshakportfolio.netlify.app](https://ni
 
 ## 🎓 Education & Learning
 
-- **B.E. in Civil Engineering** — Vivekananda College of Engineering & Technology, Karnataka
+- **B.E. ** — Vivekananda College of Engineering & Technology, Karnataka
 - **Java Full-Stack Developer Course** — JSpiders, Basavanagudi
 
 ---
